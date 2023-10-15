@@ -1,0 +1,5 @@
+CATALOGUE_HOST: catalogue.devopscollab.tech
+USER_HOST: user.devopscollab.tech
+CART_HOST: cart.devopscollab.tech
+SHIPPING_HOST: shipping.devopscollab.tech
+PAYMENT_HOST: payment.devopscollab.tech
